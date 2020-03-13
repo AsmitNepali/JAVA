@@ -1,4 +1,4 @@
-### Explain commonly used Event Listener interface with it's methods and examples ?
+### Explain commonly used Event Listener interface with it's methods and examples.
 
 > Here some event listener interface which is commonly used like ActionListener,MouseListener,KeyListener,WindowListener,FocusListener
 
